@@ -1,3 +1,8 @@
+---
+tags:
+- index
+---
+
 # Midrec World Lore
 This repository holds the player-available parts of the world lore surrounding the Midrec campaign setting.
  

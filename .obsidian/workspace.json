@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "1be685e44ff9a742",
+    "type": "split",
+    "children": [
+      {
+        "id": "31abe2699ca89dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf27760280af7917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91338ccc39d4f87b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edcc6c522351921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4afdbb4f488dc42a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6363159d5f0cbc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f6fb97059efb4e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdb15d540bbd6e9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2784f170b315c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb36de8ac92edf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2993374e306e8613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "194b7b44df39190a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91ae4a52e1304ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "2fa812d875cbad12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6477f5bd4ca3589",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b6363159d5f0cbc8",
+  "lastOpenFiles": [
+    "Susa/Susa-history.md",
+    "README.md",
+    "Susa/Susa-religion.md",
+    "Susa/Radakan-city.md"
+  ]
+}
