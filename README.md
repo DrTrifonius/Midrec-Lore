@@ -1,6 +1,9 @@
 ---
 tags:
 - index
+- list
+created: 2022-12-17T19:26:45+01:00
+updated: 2022-12-17T19:26:45+01:00
 ---
 
 # Midrec World Lore
@@ -10,6 +13,6 @@ disclaimer: everything here is eternally WIP. Information might be missing or ou
 
 ## Table of contents
 - Susa
-## - [history](Susa/Susa-history.md)
-    - [religion](Susa/Susa-religion.md)
-    - [City of Radakan](Susa/Radakan-city.md)
+	- [history](Susa/Susa-history.md)
+	- [religion](Susa/Susa-religion.md)
+	- [City of Radakan](Susa/Radakan-city.md)
