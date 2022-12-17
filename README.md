@@ -10,6 +10,6 @@ disclaimer: everything here is eternally WIP. Information might be missing or ou
 
 ## Table of contents
 - Susa
-    - [history](Susa/Susa-history.md)
+## - [history](Susa/Susa-history.md)
     - [religion](Susa/Susa-religion.md)
     - [City of Radakan](Susa/Radakan-city.md)
