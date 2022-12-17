@@ -1,9 +1,9 @@
 ---
+created: 2022-12-17T19:26:45+01:00
+updated: 2022-12-17T19:36:10+01:00
 tags:
 - index
 - list
-created: 2022-12-17T19:26:45+01:00
-updated: 2022-12-17T19:26:45+01:00
 ---
 
 # Midrec World Lore
