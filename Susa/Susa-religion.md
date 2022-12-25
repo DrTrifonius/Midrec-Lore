@@ -8,3 +8,4 @@ title: Religion of Susa
 - god is called **Rukan**
 - strong **lunar worship**
 - Religious landscape was significantly transformed by the **great calamity** (cfr. Susa-history)
+- test
