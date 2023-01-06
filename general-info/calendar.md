@@ -24,6 +24,7 @@ updated: 2023-01-06T14:46:24+01:00
 4. **Friday**
 5. Saturday
 6. Sunday
+
 Again, assuming convenient translation for ease of communication.
 ## Date naming
 - dates are usually formatted as in "the second friday of january"
