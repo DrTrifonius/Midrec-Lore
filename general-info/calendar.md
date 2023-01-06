@@ -1,6 +1,6 @@
 ---
 created: 2023-01-06T14:46:24+01:00
-updated: 2023-01-06T14:49:15+01:00
+updated: 2023-01-06T14:51:45+01:00
 ---
 # The universal Calendar
 - for sake of convenience, most traders in the world use a standardized calendar based around a six-day week.
@@ -21,8 +21,8 @@ updated: 2023-01-06T14:49:15+01:00
 1. Monday
 2. Tuesday
 3. Midweek
-4. **Friday**
-5. Saturday
+4. Thursday
+5. Friday
 6. Sunday
 
 Again, assuming convenient translation for ease of communication.
