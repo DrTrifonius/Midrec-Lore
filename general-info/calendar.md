@@ -1,3 +1,7 @@
+---
+created: 2023-01-06T14:46:24+01:00
+updated: 2023-01-06T14:46:24+01:00
+---
 # The universal Calendar
 - for sake of convenience, most traders in the world use a standardized calendar based around a six-day week.
 	- local calendars may differ, but most people will know to how to convert to universal dates

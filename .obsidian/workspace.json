@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Susa/Susa-religion.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general-info/calendar.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general-info/calendar.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general-info/calendar.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,11 +159,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2db8a3ed9d50a196",
+  "active": "0d188d95e5088f83",
   "lastOpenFiles": [
+    "general-info/calendar.md",
+    "README.md",
     "Susa/Susa-religion.md",
     "Susa/Susa-history.md",
-    "Susa/Radakan-city.md",
-    "general-info/calendar.md"
+    "Susa/Radakan-city.md"
   ]
 }
